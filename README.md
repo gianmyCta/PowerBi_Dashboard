@@ -24,7 +24,7 @@ La dashboard fornisce insight su:
 ---
 
 ### 📸 Anteprima
-*(Aggiungi qui uno screenshot della dashboard per un colpo d’occhio rapido)*
+![Dashboard Preview](images/Dashboard_preview.png)
 
 ---
 
